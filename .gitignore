@@ -170,6 +170,9 @@ cython_debug/
 !.vscode/extensions.json
 *.code-workspace
 
+#Idea files
+.idea/
+
 # Compiled class file
 *.class
 
